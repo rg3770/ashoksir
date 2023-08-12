@@ -4,3 +4,7 @@ this is the test for merging for d file at 1st line
 hi how r u
 this is the line added from github
 
+
+
+how r u dude 
+
